@@ -38,7 +38,7 @@ Mohon maaf apabila undangan ini disampaikan melalui pesan singkat.
     };
 
     return (
-        <div className="max-w-xl mx-auto p-4 bg-white/10 rounded-xl backdrop-blur-md border border-white/20 text-white">
+        <div className="max-w-xl mx-auto p-4 bg-white/10 rounded-xl backdrop-blur-md border border-white/20 text-white mt-12">
             <h2 className="text-xl font-semibold mb-4">
                 Generator Undangan Manual
             </h2>
